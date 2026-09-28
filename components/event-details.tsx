@@ -1,7 +1,7 @@
 import { Calendar, Clock, MapPin, Users } from 'lucide-react'
 
 const details = [
-  { icon: Calendar, label: 'Date', value: 'Wednesday, October 7th' },
+  { icon: Calendar, label: 'Date', value: 'Wednesday, October 7th, 2026' },
   { icon: Clock, label: 'Time', value: '4:00-5:00 PM' },
   {
     icon: MapPin,

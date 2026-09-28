@@ -8,7 +8,7 @@ const geist = Geist({ subsets: ['latin'], variable: '--font-geist' })
 export const metadata: Metadata = {
   title: 'Skills that Pay the Bills: Career Essentials | Texas Lutheran University',
   description:
-    'A career readiness workshop for undergraduates. Wednesday, October 7th, 4:00-5:00 PM at the ASC Conference Room, Texas Lutheran University. RSVP on connect@tlu.',
+    'A career readiness workshop for undergraduates. Wednesday, October 7th, 2026, 4:00-5:00 PM at the ASC Conference Room, Texas Lutheran University. RSVP on connect@tlu.',
   generator: 'v0.app',
   manifest: '/manifest.json',
   icons: {
