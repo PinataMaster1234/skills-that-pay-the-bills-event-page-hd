@@ -1,0 +1,13 @@
+{
+  "name": "Skills that Pay the Bills: Career Essentials",
+  "short_name": "Career Essentials",
+  "description": "A career readiness workshop for undergraduates at Texas Lutheran University. Wednesday, October 7th, 4:00-5:00 PM, ASC Conference Room.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "/apple-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
