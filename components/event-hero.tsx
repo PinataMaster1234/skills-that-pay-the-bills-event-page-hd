@@ -8,6 +8,7 @@ export function EventHero() {
         <h1 className="mt-4 text-balance text-3xl font-semibold leading-tight tracking-tight md:text-5xl">
           Skills that Pay the Bills: Career Essentials: Skills that Every Employer Wants
         </h1>
+        <p className="mt-3 text-base text-muted-foreground">Published to GitHub</p>
         <a
           href="#rsvp"
           className="mt-8 inline-flex min-h-11 items-center justify-center rounded-md bg-primary px-6 text-base font-medium text-primary-foreground transition-opacity hover:opacity-90 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
